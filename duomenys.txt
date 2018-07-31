@@ -1,0 +1,5 @@
+dog mammal name 20 0.6 walks
+cat mammal nome 8 0.3 walks
+pigeon bird aaa 1.5 0.1 flies
+spider arachnid abc 0.01 0.01 crawls
+mosquito bug bbb 0.001 0.002 flies
